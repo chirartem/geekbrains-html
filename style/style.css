@@ -1,0 +1,85 @@
+body {
+	color: white;
+	background-attachment: fixed;
+	background-image: url(../images/1579336040_11-34.jpg);
+	background-size: 100%;
+}
+
+* {
+	font-family: sans-serif, arial, helvetica;
+}
+
+div {
+	width: 50%;
+	padding-left: 25%;
+}
+
+img {
+	width: 100%;
+	border-radius: 8px;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2, h3, h4, h5, h6 {
+	text-align: center;
+}
+/* 
+h2, h3, h4 {
+	position: relative;
+	border-bottom: 1px solid #c5c5c5;
+}
+ */
+p {
+	font-size: 21px;
+	text-align: justify;
+}
+
+input {
+	border-radius: 6px;
+}
+
+a {
+	color: #7FFFFFFF;
+}
+
+a:hover {
+	color: yellow;
+}
+
+button:hover {
+	background-color: #19FF00FF;
+	border-color: transparent;
+	border-radius: 6px;
+	color: white;
+}
+
+button {
+	border-color: transparent;
+	border-radius: 6px;
+	color: black;
+}
+
+.spanend {
+	color: #AEAEAE;
+	font-style: italic;
+}
+
+.hrend {
+	color: #AEAEAE;
+}
+
+.noneh3 {
+
+}
+
+.img-Geek-contacts {
+	width: 46%;
+}
+
+.inputdiv {
+	width: 10%;
+	padding-right: 25%;
+}
