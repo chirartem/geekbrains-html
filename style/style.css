@@ -1,8 +1,7 @@
 body {
 	color: black;
 	background-attachment: fixed;
-	background-image: url(../images/wp6382882.png);
-	/*background-repeat: no-repeat;*/
+	background-image: url(../images/watercolor-background-paper-35.jpg);
 	background-size: 100%;
 }
 
@@ -10,14 +9,8 @@ body {
 	font-family: sans-serif, arial, helvetica;
 }
 
-div {
-	width: 50%;
-	padding-left: 25%;
-}
-
 img {
 	width: 100%;
-	border-radius: 8px;
 }
 
 h1 {
@@ -136,10 +129,6 @@ button {
 
 }
 
-.img-Geek-contacts {
-	width: 46%;
-}
-
 .inputdiv {
 	width: 10%;
 	padding-right: 25%;
@@ -151,4 +140,15 @@ button {
     text-shadow: #cad5e2 1px 1px 0, #cad5e2 2px 2px 0, 
                  #cad5e2 3px 3px 0, #cad5e2 4px 4px 0, 
                  #cad5e2 5px 5px 0;
+}
+
+.maindiv {
+	width: 50%;
+	padding-left: 25%;
+}
+
+.imgdiv {
+	width: 50%;
+	border-radius: 8px;
+	padding-left: 25%;
 }
