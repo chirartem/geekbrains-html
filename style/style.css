@@ -21,18 +21,18 @@ h1, h2, h3, h4, h5, h6 {
 	text-align: center;
 	font-size: 16px;
 	line-height: 26px;
-    font: bold 3em;
-    color: #1F3F68;
-    text-shadow: #cad5e2 1px 1px 0, #cad5e2 2px 2px 0, 
-                 #cad5e2 3px 3px 0, #cad5e2 4px 4px 0, 
-                 #cad5e2 5px 5px 0;
+	font: bold 3em;
+	color: #1F3F68;
+	text-shadow: #cad5e2 1px 1px 0, #cad5e2 2px 2px 0, 
+	#cad5e2 3px 3px 0, #cad5e2 4px 4px 0, 
+	#cad5e2 5px 5px 0;
 }
 /* 
 h2, h3, h4 {
 	position: relative;
 	border-bottom: 1px solid #c5c5c5;
 }
- */
+*/
 p {
 	font-size: 21px;
 	text-align: justify;
@@ -118,7 +118,7 @@ button {
 
 .hrend {
 	color: #AEAEAE;
-    text-shadow: #cad5e2 1px 1px 0;
+	text-shadow: #cad5e2 1px 1px 0;
 }
 
 .mapborder {
@@ -135,20 +135,29 @@ button {
 }
 
 .stroke {
-    font: bold 3em Arial, sans-serif;
-    color: #1F3F68FF;
-    text-shadow: #cad5e2 1px 1px 0, #cad5e2 2px 2px 0, 
-                 #cad5e2 3px 3px 0, #cad5e2 4px 4px 0, 
-                 #cad5e2 5px 5px 0;
+	font: bold 3em Arial, sans-serif;
+	color: #1F3F68FF;
+	text-shadow: #cad5e2 1px 1px 0, #cad5e2 2px 2px 0, 
+	#cad5e2 3px 3px 0, #cad5e2 4px 4px 0, 
+	#cad5e2 5px 5px 0;
 }
 
 .maindiv {
 	width: 50%;
-	padding-left: 25%;
+	margin-left: 25%;
+	background: white;
 }
 
 .imgdiv {
 	width: 50%;
 	border-radius: 8px;
 	padding-left: 25%;
+}
+
+.bender {
+	padding-left: 100%;
+}
+
+.benderimg {
+	border-radius: 0px;
 }
