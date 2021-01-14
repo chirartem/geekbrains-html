@@ -1,7 +1,7 @@
 body {
 	color: black;
 	background-attachment: fixed;
-	background-image: url(../images/watercolor-background-paper-35.jpg);
+	background-image: url(../images/2834825882.jpg);
 	background-size: 100%;
 }
 
@@ -114,6 +114,7 @@ button {
 .spanend {
 	color: #AEAEAE;
 	font-style: italic;
+	padding-left: 1%;
 }
 
 .hrend {
@@ -144,7 +145,7 @@ button {
 
 .maindiv {
 	width: 50%;
-	margin-left: 25%;
+	margin-left: 24.3%;
 	background: white;
 }
 
