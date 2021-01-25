@@ -155,6 +155,7 @@ button {
 	background: white;
 	margin-left: 25%;
 	width: 50%;
+	border-radius: 6px;
 }
 
 .imgdiv {
